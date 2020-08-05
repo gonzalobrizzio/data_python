@@ -1,2 +1,2 @@
 # data_python
-Test de Python
+Test de Python 2.7
